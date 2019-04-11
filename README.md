@@ -1,16 +1,11 @@
-# Title
+# CSS Diner
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Use CSS Selectors to target elements
 
 ## Introduction
 
-## SWBAT 1
+Selectors are the 'nouns' of CSS. They let you choose which elements on the page to style. While you can always try to add classes and ids to elements to make selecting them easier, sometimes you want more sophisticated targeting.
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Practice your selectors with [CSS Diner](https://flukeout.github.io/). The exercises should take you about 30 minutes of focused time.
